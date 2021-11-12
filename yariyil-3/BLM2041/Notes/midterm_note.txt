@@ -1,0 +1,20 @@
+programlama dilleri: Elektronik cihazların bir algoritmayı gerçeklemesi için yapılan işlemler bütünü.
+algoritma: bir problemin çözüm verileri ve süreçlerini ifade ede
+
+Bir uygulamanın dil olabilmesi için algoritmaları gerçeklemesi, recursive yapılar barındırması, döngü ve karar mekanizmalarını içermesi gerekir.
+
+dillerin kullandığı temel kavramlar:
+-veri ve tipleri
+-değişkenler
+-fonksiyonel programlama
+-veri soyutlama
+-tip sistemleri
+-eş zamanlılık
+
+Dil Tipleri
+-oo: Problemi bir arada tutan yapı mevcut; simula, smalltalk, C++
+-imperative(procedural): RAM üzerinde işlem yapabilir; C, Fortran, Pascal, COBOL
+-functional: Atama işlemine değil, hesaplamaya yönelik diller; Lisp
+-eşzamanlı: Eş koşumlu diller, PL/I, Ada
+-mantık: İlişik çözümü ve durum değerlendirme dilleri; Prolog
+-script: Compile edilmeyen, yorumlayıcı tarafından yürütülen diller; Python, PHP

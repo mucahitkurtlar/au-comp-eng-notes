@@ -1,0 +1,30 @@
+Aşağıda değerlendirme sırasında kullanılan main dosyalarının işlevi, kullanılan input-output dosyaları ve kaç puan olduğu açıklanmıştır.
+The function of the main.c files used during the evaluation, the input-output files used and the number of points are explained below.
+
+
+main1.c (10 puan)
+input1 - output1
+Program sadece Fenerbahçe için liste oluşturup ekrana bastırıyor. Birleştirme işlemi yok.
+Create link list only Fenerbahçe and print to the screen.No need to combine.
+
+
+main2.c (10 puan)
+input2 - output2
+Program sadece Galatasaray için liste oluşturup ekrana bastırıyor. Birleştirme işlemi yok.
+Create link list only Galatasaray and print to the screen.No need to combine.
+
+
+main3.c (5 puan) 
+input3 - output3
+Program hem Fenerbahçe hem Galatasaray için liste oluşturuyor ve ekrana bastırıyor. Birleştirme işlemi yok.  
+Create link list both Fenerbahçe and Galatasaray and print to the screen.
+
+
+main.c (75 puan)
+Program bütün istenilen fonksiyonları içeriyor. 
+Program consists of all needed functions. Examine below input output files.
+input_1 - output_1 (25 puan) 
+input_2 - output_2 (25 puan)
+input_3 - output_3 (25 puan) 
+
+
