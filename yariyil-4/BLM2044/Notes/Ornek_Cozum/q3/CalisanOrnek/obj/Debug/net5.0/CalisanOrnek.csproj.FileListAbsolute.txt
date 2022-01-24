@@ -1,0 +1,16 @@
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/obj/Debug/net5.0/CalisanOrnek.csproj.AssemblyReference.cache
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/obj/Debug/net5.0/CalisanOrnek.GeneratedMSBuildEditorConfig.editorconfig
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/obj/Debug/net5.0/CalisanOrnek.AssemblyInfoInputs.cache
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/obj/Debug/net5.0/CalisanOrnek.AssemblyInfo.cs
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/obj/Debug/net5.0/CalisanOrnek.csproj.CoreCompileInputs.cache
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/bin/Debug/net5.0/CalisanOrnek
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/bin/Debug/net5.0/CalisanOrnek.deps.json
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/bin/Debug/net5.0/CalisanOrnek.runtimeconfig.json
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/bin/Debug/net5.0/CalisanOrnek.runtimeconfig.dev.json
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/bin/Debug/net5.0/CalisanOrnek.dll
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/bin/Debug/net5.0/ref/CalisanOrnek.dll
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/bin/Debug/net5.0/CalisanOrnek.pdb
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/obj/Debug/net5.0/CalisanOrnek.dll
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/obj/Debug/net5.0/ref/CalisanOrnek.dll
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/obj/Debug/net5.0/CalisanOrnek.pdb
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q3/CalisanOrnek/obj/Debug/net5.0/CalisanOrnek.genruntimeconfig.cache

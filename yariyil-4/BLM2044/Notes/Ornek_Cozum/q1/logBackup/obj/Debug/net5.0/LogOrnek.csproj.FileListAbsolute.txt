@@ -1,0 +1,16 @@
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/obj/Debug/net5.0/LogOrnek.csproj.AssemblyReference.cache
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/obj/Debug/net5.0/LogOrnek.GeneratedMSBuildEditorConfig.editorconfig
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/obj/Debug/net5.0/LogOrnek.AssemblyInfoInputs.cache
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/obj/Debug/net5.0/LogOrnek.AssemblyInfo.cs
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/obj/Debug/net5.0/LogOrnek.csproj.CoreCompileInputs.cache
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/bin/Debug/net5.0/LogOrnek
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/bin/Debug/net5.0/LogOrnek.deps.json
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/bin/Debug/net5.0/LogOrnek.runtimeconfig.json
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/bin/Debug/net5.0/LogOrnek.runtimeconfig.dev.json
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/bin/Debug/net5.0/LogOrnek.dll
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/bin/Debug/net5.0/ref/LogOrnek.dll
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/bin/Debug/net5.0/LogOrnek.pdb
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/obj/Debug/net5.0/LogOrnek.dll
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/obj/Debug/net5.0/ref/LogOrnek.dll
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/obj/Debug/net5.0/LogOrnek.pdb
+/home/allesfresser/Documents/Courses/BLM2044/Notes/FinalSolution/q1/LogOrnek/obj/Debug/net5.0/LogOrnek.genruntimeconfig.cache

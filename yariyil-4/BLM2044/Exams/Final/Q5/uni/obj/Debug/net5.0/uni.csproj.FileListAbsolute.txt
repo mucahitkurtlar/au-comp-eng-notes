@@ -1,0 +1,16 @@
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/bin/Debug/net5.0/uni
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/bin/Debug/net5.0/uni.deps.json
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/bin/Debug/net5.0/uni.runtimeconfig.json
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/bin/Debug/net5.0/uni.runtimeconfig.dev.json
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/bin/Debug/net5.0/uni.dll
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/bin/Debug/net5.0/ref/uni.dll
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/bin/Debug/net5.0/uni.pdb
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/obj/Debug/net5.0/uni.csproj.AssemblyReference.cache
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/obj/Debug/net5.0/uni.GeneratedMSBuildEditorConfig.editorconfig
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/obj/Debug/net5.0/uni.AssemblyInfoInputs.cache
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/obj/Debug/net5.0/uni.AssemblyInfo.cs
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/obj/Debug/net5.0/uni.csproj.CoreCompileInputs.cache
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/obj/Debug/net5.0/uni.dll
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/obj/Debug/net5.0/ref/uni.dll
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/obj/Debug/net5.0/uni.pdb
+/home/allesfresser/Documents/Courses/BLM2044/Exams/Final/q5/uni/obj/Debug/net5.0/uni.genruntimeconfig.cache
